@@ -22,12 +22,32 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/contact/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/products/seared-tuna-tataki/
         </loc>
     </url>
     <url>
         <loc>
             http://localhost:8000/products/strawberry-coconut-martini/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/roasted-churrasco-chicken/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/porto-bloom-cocktail/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/asian-pear-martini/
         </loc>
     </url>
     <url>
